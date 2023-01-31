@@ -22,3 +22,15 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
 4. Examine the data types that are currently associated with each column. If necessary, cast (or convert) the data to the appropriate datetime, int, or float data types.the scraped data into a Pandas DataFrame. The columns should have the same headings as the table on the website. Here’s an explanation of the column headings:
 5. Analyze your dataset by using Pandas functions to answer the following questions:
 6. Export the DataFrame to a CSV file.
+
+# Data Review
+
+Temperature Bar Chart
+![My_Image](https://github.com/MEJillFarley/mars_web_scraping/blob/main/Mars%20Images/Temp%20Bar%20Plot.png?raw=true)
+
+Average Temperature Lowest to Highest
+![My_Image](https://github.com/MEJillFarley/mars_web_scraping/blob/main/Mars%20Images/Avg%20Temp%20lowest%20to%20highest.png?raw=true)
+
+Average Pressure by Month
+![My_Image](https://github.com/MEJillFarley/mars_web_scraping/blob/main/Mars%20Images/Avd%20Pressure%20by%20Month.png?raw=true)
+

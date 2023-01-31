@@ -1,6 +1,6 @@
 # mars_web_scraping
 
-!my_Image
+![My Image](https://github.com/MEJillFarley/mars_web_scraping/blob/main/Mars%20Images/mars.jpg?raw=true)
 
 # Part 1: Scrape Titles and Preview Text from Mars News
 Open the Jupyter Notebook in the starter code folder named part_1_mars_news.ipynb. You will work in this code as you follow the steps below to scrape the Mars News website.

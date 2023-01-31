@@ -25,12 +25,12 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
 
 # Data Review
 
-Temperature Bar Chart
+Temperature Bar Chart <br /> 
 ![My_Image](https://github.com/MEJillFarley/mars_web_scraping/blob/main/Mars%20Images/Temp%20Bar%20Plot.png?raw=true)
 
-Average Temperature Lowest to Highest
+Average Temperature Lowest to Highest <br /> 
 ![My_Image](https://github.com/MEJillFarley/mars_web_scraping/blob/main/Mars%20Images/Avg%20Temp%20lowest%20to%20highest.png?raw=true)
 
-Average Pressure by Month
+Average Pressure by Month <br /> 
 ![My_Image](https://github.com/MEJillFarley/mars_web_scraping/blob/main/Mars%20Images/Avd%20Pressure%20by%20Month.png?raw=true)
 
